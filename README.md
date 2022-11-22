@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ayoadejoe [Ayoade Adetunji]{joseph}
+- ✨ I am an Oracle certified Java Developer
 - 👀 I’m interested in Python, AI, ML, JAVA, C++
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Machine Learning Projects
